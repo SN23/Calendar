@@ -21,6 +21,11 @@ Then exit python Interactive Shell using Ctrl + D
 - To View JSON data you can use a browser or postman to navigate to 
 "your-machines-ipaddress:5000/events"
 
-Calendar APP 
+Calendar APP
+
 Change the IP address in the java file ApiUtils to the ip address of the machine running the backend python script.
 Ex - "http://YOUR_IP_HERE:5000/"
+
+<img src="/screenshots/4.png"/>
+
+<img src="/screenshots/1.png" width="275"/>  <img src="/screenshots/2.png" width="275"/> <img src="/screenshots/3.png" width="275"/>
